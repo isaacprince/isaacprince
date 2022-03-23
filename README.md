@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🛠 I'm currently learning Frontend Technologies (HTML, CSS, JS)
 - ⚡ Check out my [Design portfolio](http://princeisaac.work/)
 - 💬 Ask me about Website & Mobile Design, Design systems.
-- 👯 I’m looking to collaborate on building small projects
+- 👯 I’m looking to collaborate on building projects
 - 📫 How to reach me: [Twitter](https://twitter.com/izikprinx), [Linkedin](https://www.linkedin.com/in/prince-isaac/)
 
 
