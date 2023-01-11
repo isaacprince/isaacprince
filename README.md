@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Frontend Technologies (I'm a newbie)
+- 🔭 I’m currently exploring Frontend Technologies (I'm a newbie)
 - 🌱 I’m currently learning HTML, CSS, JS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 😎 I'm Prince Isaac. A Product Designer based in Lagos Nigeria
-- 🛠 I'm currently learning Frontend Technologies (HTML, CSS, JS)
+- 🛠 I'm currently exploring Frontend Technologies (HTML, CSS, JS)
 - ⚡ Check out my [Design portfolio](http://princeisaac.work/)
 - 💬 Ask me about Website & Mobile Design, Design systems.
 - 👯 I’m looking to collaborate on building projects
