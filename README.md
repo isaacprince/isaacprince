@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 😎 I'm Prince Isaac. A Product Designer based in Toronto, Ontario.
+- 😎 I'm Prince Isaac. A Product Designer based in Toronto, Canada.
 - 🛠 I'm currently exploring Frontend Technologies (HTML, CSS, JS)
 - ⚡ Check out my [Design Portfolio](http://princeisaac.work/)
 - 💬 Ask me about Website & Mobile Design, Design systems.
